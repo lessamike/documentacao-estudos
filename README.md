@@ -1,6 +1,9 @@
 # Bem-vindo
 
-**MikeLessa** editou esta página há 2 horas · 3 revisões
+# Objetivo do Repositório
+
+Este repositório foi criado com a intenção de fornecer uma introdução simples e fácil de entender aos conceitos básicos em diversas áreas de tecnologia. Não tem como objetivo abordar conhecimentos avançados, mas sim apresentar os fundamentos de forma acessível.
+
 
 ## Bem-vindo ao Repositório de Estudos em Tecnologia
 
