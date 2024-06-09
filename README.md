@@ -62,4 +62,4 @@ Este repositório é dedicado à documentação e anotações dos meus estudos n
 
 ### Contato
 
-Se você tiver alguma dúvida ou sugestão, entre em contato comigo através do [meu perfil no GitHub](https://github.com/MikeLessa).
+Se você tiver alguma dúvida ou sugestão, entre em contato comigo através do [meu perfil no GitHub](https://github.com/lessamike).
